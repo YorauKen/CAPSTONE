@@ -22,6 +22,10 @@ The project focuses on creating an AI-based application that helps users design 
 * Customization: Users can tailor the description to generate specific designs, colors, and fabrics.
 
 
+### Open Source Models Used
+* [CLIP](#https://github.com/openai/CLIP) - for Text and Image Preprocessing
+* [GALIP](#https://github.com/tobran/GALIP) - CLIP infused model to generate better quality images 
+
 ### Model Architecture
 
 
