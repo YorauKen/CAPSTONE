@@ -6,11 +6,11 @@
 The Generative Stylist Assistant is an AI-powered application that allows users to generate Indian ethnic wear designs based on textual descriptions. Users can input prompts that describe features such as color, fabric, design type, and type of ethnic wear. The application then generates a visual representation of the outfit and fetches similar products that closely match the generated image, offering a seamless integration of AI-based design and product discovery.
 
 ### Table of contents
-* Introduction
-* Features
-* Model architecture
-* Dataset
-* Results
+* [Introduction](#introduction)
+* [Features](#features)
+* [Model architecture](#model-architecture)
+* [Dataset](#dataset)
+* [Results](#results)
 
 
 ### Introduction
