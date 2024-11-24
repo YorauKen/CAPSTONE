@@ -1,0 +1,31 @@
+{
+	"imageUrl": "/generated_image_4.png",
+	"relatedImages": [
+	  {
+		"image":"/generated_image_3.png",
+		"title": "Blue Sherwani",
+		"link": "https://example.com/product/blue-sherwani"
+	  },
+	  {
+		"image": "/generated_image_5.png",
+		"title": "Traditional Kurta",
+		"link": "https://example.com/product/traditional-kurta"
+	  },
+	  {
+		"image": "/generated_image_6.png",
+		"title": "Ethnic Lehenga",
+		"link": "https://example.com/product/ethnic-lehenga"
+	  },
+	  {
+		"image": "/generated_image_7.png",
+		"title": "Modern Indo-Western",
+		"link": "https://example.com/product/modern-indo-western"
+	  },
+	  {
+		"image": "/generated_image_4.png",
+		"title": "Wedding Gown",
+		"link": "https://example.com/product/wedding-gown"
+	  }
+	]
+  }
+  
